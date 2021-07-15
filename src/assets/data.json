@@ -1,41 +1,42 @@
 [
     {
-        "id": "shaun-of-the-dead",
-        "name": "Shaun of the Dead",
+        "id": "Rock-Lee-vs-Gaara",
+        "name": "Rock Lee vs Gaara",
         "description":
-            "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
-        "thumbnailSrc": "https://image.tmdb.org/t/p/original/2evlcGnsfdFWLb7geNlIjIewc0Q.jpg",
-        "bannerSrc": "https://image.tmdb.org/t/p/original/50mMiR0R1QclaAODTutwXBrReLJ.jpg",
+            "Rock Lee vs Gaara - Naruto Clássico - Luta Completa.",
+        "thumbnailSrc": "movies/naruto/naruto_garra.jpg",
+        "bannerSrc": "movies/naruto/naruto_garra.jpg",
         "releaseDate": "09/24/2004",
         "durationMinutes": 99,
         "genres": ["Horror", "Comedy"],
-        "trailerUrl": "https://youtube.com/embed/CfBewQPFdKE",
+        "trailerUrl": "https://www.youtube.com/watch?v=E0xsfehI0hI",
         "favorite": false
     },
     {
-        "id": "the-worlds-end",
-        "name": "The World's End",
+        "id": "SASUKE-vs-GAARA",
+        "name": "SASUKE vs GAARA",
         "description":
-            "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
-        "thumbnailSrc": "https://image.tmdb.org/t/p/original/7xZUJMqGBLvhPJqn23UM3yUC5k5.jpg",
-        "bannerSrc": "https://image.tmdb.org/t/p/original/4cib8AD7uUc3qc5LsAlRbewg0Zk.jpg",
+            "SASUKE vs GAARA - Sasuke mostra os resultados do treinamento com Kakashi e impressiona a todos !",
+        "thumbnailSrc": "movies/naruto/sasuke.jpg",
+        "bannerSrc": "movies/naruto/sasuke.jpg",
         "releaseDate": "08/23/2013",
         "durationMinutes": 109,
         "genres": ["Comedy", "Action", "Science Fiction"],
-        "trailerUrl": "https://youtube.com/embed/ayTnvVpj9t4",
+        "trailerUrl": "https://www.youtube.com/watch?v=jhTiFeR0koI",
         "favorite": false
     },
     {
-        "id": "hot-fuzz",
-        "name": "Hot Fuzz",
+        "id": "NARUTO-VS-PAIN",
+        "name": "NARUTO VS PAIN",
         "description":
-            "Top London cop, PC Nicholas Angel is good. Too good. To stop the rest of his team from looking bad, he is reassigned to the quiet town of Sandford, paired with simple country cop, and everything seems quiet until two actors are found decapitated. It is addressed as an accident, but Angel isn't going to accept that, especially when more and more people turn up dead.",
-        "thumbnailSrc": "https://image.tmdb.org/t/p/original/5Jx6s6VXnunh8wCLgR0YgjwSgjh.jpg",
-        "bannerSrc": "https://image.tmdb.org/t/p/original/hRGhxu90TLsatD2gtdy98oobtyB.jpg",
+            "NARUTO VS PAIN | PARTE 1 | NARUTO SHIPPUDEN | EPISÓDIO 164 AO 166 LEGENDADO EM PORTUGUÊS PT-BR",
+        "thumbnailSrc": "movies/naruto/naruto1.jpg",
+        "bannerSrc": "movies/naruto/naruto1.jpg",
         "releaseDate": "04/20/2007",
         "durationMinutes": 121,
         "genres": ["Crime", "Comedy", "Action"],
-        "trailerUrl": "https://youtube.com/embed/ayTnvVpj9t4",
+        "trailerUrl": "https://www.youtube.com/watch?v=UXoq3lXzDjA",
         "favorite": false
     }
 ]
+
